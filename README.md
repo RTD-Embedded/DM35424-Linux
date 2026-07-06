@@ -281,7 +281,7 @@ Channel 0 to ADC Channel 0+ and DAC Channel 1 to ADC Channel 0-.
 Usage: Display the command-line options by executing
 
 ```sh
-./dm35424_ref_adjust --help.
+./dm35424_ref_adjust --help
 ```
 
 ### [dm35424_temperature.c](examples/dm35424_temperature.c)
@@ -323,20 +323,12 @@ Usage:
 If you require additional support with this product, or any other products from
 RTD Embedded Technologies, contact us using the information below:
 
-RTD Embedded Technologies, Inc.
-
-103 Innovation Boulevard
-
-State College, PA 16803 USA
-
-
-
-Telephone: (814) 234-8087
-
+RTD Embedded Technologies, Inc. \
+103 Innovation Boulevard \
+State College, PA 16803 USA \
+Telephone: (814) 234-8087 \
 Fax: (814) 234-5218
 
-Sales Information and Quotes: sales@rtd.com
-
-Technical Assistance: techsupport@rtd.com
-
+Sales Information and Quotes: sales@rtd.com \
+Technical Assistance: techsupport@rtd.com \
 Web Site: http://www.rtd.com
