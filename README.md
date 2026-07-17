@@ -31,7 +31,10 @@ license terms listed above.
 
 ## Supported Hardware
 
-This software supports the RTD DM35424.
+This software supports the following RTD Products:
+
+* [DM35424](https://www.rtd.com/PC104/DM/analog%20IO/DM35x24.htm)
+* [DM35224](https://www.rtd.com/PC104/DM/analog%20IO/DM35x24.htm)
 
 
 ## Supported Kernel Versions
