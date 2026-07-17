@@ -125,7 +125,7 @@ well; the purpose of these files will be explained below.
 To build the example programs, issue the command `make` within `examples/`.
 
 
-The following files are provided in examples/:
+The following files are provided in `examples/`:
 
 ### Makefile
 
